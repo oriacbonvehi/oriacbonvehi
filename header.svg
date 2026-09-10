@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="58" viewBox="0 0 700 58" font-family="'Cascadia Code','Fira Code',Consolas,'Andale Mono','DejaVu Sans Mono',monospace" role="img" aria-label="Bones! Sóc l'Oriac 👋 · Backend de CityXerpa · Ping-pong master 🏓">
+<style>text { white-space: pre; dominant-baseline: middle; clip-path: inset(0 100% 0 0); }
+@keyframes l0 { 0%,0.00% { clip-path: inset(0 100% 0 0) } 20.67%,33.32% { clip-path: inset(0 0 0 0) } 33.33%,100% { clip-path: inset(0 100% 0 0) } }
+.l0 { animation: l0 13.200000000000001s steps(20) infinite; }
+@keyframes l1 { 0%,33.33% { clip-path: inset(0 100% 0 0) } 54.00%,66.66% { clip-path: inset(0 0 0 0) } 66.67%,100% { clip-path: inset(0 100% 0 0) } }
+.l1 { animation: l1 13.200000000000001s steps(20) infinite; }
+@keyframes l2 { 0%,66.67% { clip-path: inset(0 100% 0 0) } 87.33%,99.99% { clip-path: inset(0 0 0 0) } 100.00%,100% { clip-path: inset(0 100% 0 0) } }
+.l2 { animation: l2 13.200000000000001s steps(18) infinite; }
+@media (prefers-reduced-motion: reduce) { text { animation: none; clip-path: none } text:not(.l0) { display: none } }</style>
+<text class="l0" x="350.0" y="29.0" text-anchor="middle" font-size="26" font-weight="500" fill="#ff5657">Bones! Sóc l'Oriac 👋</text>
+<text class="l1" x="350.0" y="29.0" text-anchor="middle" font-size="26" font-weight="500" fill="#ff5657">Backend de CityXerpa</text>
+<text class="l2" x="350.0" y="29.0" text-anchor="middle" font-size="26" font-weight="500" fill="#ff5657">Ping-pong master 🏓</text>
+</svg>
