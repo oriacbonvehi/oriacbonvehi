@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="470" viewBox="0 0 794 470" font-family="'Cascadia Code','Fira Code',Consolas,'Andale Mono','DejaVu Sans Mono',monospace" role="img" aria-label="oriacbonvehi — perfil">
+<style>
+    text { white-space: pre; dominant-baseline: middle; }
+    .row { opacity: 0; animation: in .32s ease forwards; }
+    .art { opacity: 0; animation: in .5s ease forwards; }
+    @keyframes in { to { opacity: 1 } }
+    .cursor { animation: blink 1.06s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) {
+      .row, .art { animation: none; opacity: 1 }
+      .cursor { animation: none }
+    }
+  </style>
+<text class="art" style="animation-delay:0.000s" x="26" y="31.1" font-size="10.0" fill="#ff5657" xml:space="preserve">                       @@@</text>
+<text class="art" style="animation-delay:0.022s" x="26" y="41.3" font-size="10.0" fill="#ff5657" xml:space="preserve">                    @@@</text>
+<text class="art" style="animation-delay:0.044s" x="26" y="51.5" font-size="10.0" fill="#ff5657" xml:space="preserve">                  @@@</text>
+<text class="art" style="animation-delay:0.066s" x="26" y="61.7" font-size="10.0" fill="#ff5657" xml:space="preserve">                @@@@</text>
+<text class="art" style="animation-delay:0.088s" x="26" y="71.9" font-size="10.0" fill="#ff5657" xml:space="preserve">              @@@@@</text>
+<text class="art" style="animation-delay:0.110s" x="26" y="82.1" font-size="10.0" fill="#ff5657" xml:space="preserve">             @@@@@</text>
+<text class="art" style="animation-delay:0.132s" x="26" y="92.3" font-size="10.0" fill="#ff5657" xml:space="preserve">            @@@@@@                              @</text>
+<text class="art" style="animation-delay:0.154s" x="26" y="102.5" font-size="10.0" fill="#ff5657" xml:space="preserve">            @@@@@                                @</text>
+<text class="art" style="animation-delay:0.176s" x="26" y="112.7" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@                                @@</text>
+<text class="art" style="animation-delay:0.198s" x="26" y="122.9" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@                                 @</text>
+<text class="art" style="animation-delay:0.220s" x="26" y="133.1" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@@                                @</text>
+<text class="art" style="animation-delay:0.242s" x="26" y="143.3" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@@                               @@</text>
+<text class="art" style="animation-delay:0.264s" x="26" y="153.5" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@@                               @@</text>
+<text class="art" style="animation-delay:0.286s" x="26" y="163.7" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@@@@@@                            @</text>
+<text class="art" style="animation-delay:0.308s" x="26" y="173.9" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@@@@@@@@@@@       @@@@@@@@@  @@   @</text>
+<text class="art" style="animation-delay:0.330s" x="26" y="184.1" font-size="10.0" fill="#ff5657" xml:space="preserve">        @@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@     @</text>
+<text class="art" style="animation-delay:0.352s" x="26" y="194.3" font-size="10.0" fill="#ff5657" xml:space="preserve">        @@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@       @</text>
+<text class="art" style="animation-delay:0.374s" x="26" y="204.5" font-size="10.0" fill="#ff5657" xml:space="preserve">        @@@@@@@@@@@@@@@@ @@@@        @@@@         @</text>
+<text class="art" style="animation-delay:0.396s" x="26" y="214.7" font-size="10.0" fill="#ff5657" xml:space="preserve">         @@@@@@@@@@@@     @@@                    @@</text>
+<text class="art" style="animation-delay:0.418s" x="26" y="224.9" font-size="10.0" fill="#ff5657" xml:space="preserve">         @@@@@@@          @@@                    @</text>
+<text class="art" style="animation-delay:0.440s" x="26" y="235.1" font-size="10.0" fill="#ff5657" xml:space="preserve">         @@@@@@@         @@@                     @</text>
+<text class="art" style="animation-delay:0.462s" x="26" y="245.3" font-size="10.0" fill="#ff5657" xml:space="preserve">         @@@@@@@        @@ @                    @@</text>
+<text class="art" style="animation-delay:0.484s" x="26" y="255.5" font-size="10.0" fill="#ff5657" xml:space="preserve">         @@@@@@@        @@@@@                   @</text>
+<text class="art" style="animation-delay:0.506s" x="26" y="265.7" font-size="10.0" fill="#ff5657" xml:space="preserve">         @@@@@@@@@     @@@@@@@@@@@@             @</text>
+<text class="art" style="animation-delay:0.528s" x="26" y="275.9" font-size="10.0" fill="#ff5657" xml:space="preserve">             @@@@@@@@@@@@@@@@@@@@@@            @@</text>
+<text class="art" style="animation-delay:0.550s" x="26" y="286.1" font-size="10.0" fill="#ff5657" xml:space="preserve">             @@@@@@@@@@@@@@@@@@@@@    @@@@@   @@@</text>
+<text class="art" style="animation-delay:0.572s" x="26" y="296.3" font-size="10.0" fill="#ff5657" xml:space="preserve">             @@@@@@@@@@@@@@@@@@@@@ @@@@@ @@  @@@</text>
+<text class="art" style="animation-delay:0.594s" x="26" y="306.5" font-size="10.0" fill="#ff5657" xml:space="preserve">              @@@@@@@  @@@@@@            @ @@@@@</text>
+<text class="art" style="animation-delay:0.616s" x="26" y="316.7" font-size="10.0" fill="#ff5657" xml:space="preserve">              @@@@@@@  @@@@@              @@@@@</text>
+<text class="art" style="animation-delay:0.638s" x="26" y="326.9" font-size="10.0" fill="#ff5657" xml:space="preserve">               @@@@@@@@@@@@@@@@@         @@@@@@</text>
+<text class="art" style="animation-delay:0.660s" x="26" y="337.1" font-size="10.0" fill="#ff5657" xml:space="preserve">                @@@@@@@       @         @@@@@@</text>
+<text class="art" style="animation-delay:0.682s" x="26" y="347.3" font-size="10.0" fill="#ff5657" xml:space="preserve">                @@@@@@@@               @@@@@@</text>
+<text class="art" style="animation-delay:0.704s" x="26" y="357.5" font-size="10.0" fill="#ff5657" xml:space="preserve">               @@@@@@@@@@@            @@@@@@</text>
+<text class="art" style="animation-delay:0.726s" x="26" y="367.7" font-size="10.0" fill="#ff5657" xml:space="preserve">           @@@@@@@@@@@@@@@@@        @@@@@@@</text>
+<text class="art" style="animation-delay:0.748s" x="26" y="377.9" font-size="10.0" fill="#ff5657" xml:space="preserve">       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="art" style="animation-delay:0.770s" x="26" y="388.1" font-size="10.0" fill="#ff5657" xml:space="preserve">    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="art" style="animation-delay:0.792s" x="26" y="398.3" font-size="10.0" fill="#ff5657" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="art" style="animation-delay:0.814s" x="26" y="408.5" font-size="10.0" fill="#ff5657" xml:space="preserve"> @    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="art" style="animation-delay:0.836s" x="26" y="418.7" font-size="10.0" fill="#ff5657" xml:space="preserve">      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="art" style="animation-delay:0.858s" x="26" y="428.9" font-size="10.0" fill="#ff5657" xml:space="preserve">        @@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+<text class="art" style="animation-delay:0.880s" x="26" y="439.1" font-size="10.0" fill="#ff5657" xml:space="preserve">         @@ @@@@@@@@@@@@@@@@@@@@@</text>
+<text class="row" style="animation-delay:0.250s" x="374" y="36.0" font-size="14.5" font-weight="700" fill="#ff5657">oriacbonvehi@github</text>
+<path class="row" style="animation-delay:0.295s" d="M374 56.0 H768" stroke="#30363d"/>
+<text class="row" style="animation-delay:0.340s" x="374" y="76.0" font-size="14.5" fill="#ff5657">OS:</text>
+<text class="row" style="animation-delay:0.340s" x="560" y="76.0" font-size="14.5" fill="#c9d1d9">macOS</text>
+<text class="row" style="animation-delay:0.385s" x="374" y="96.0" font-size="14.5" fill="#ff5657">Host:</text>
+<text class="row" style="animation-delay:0.385s" x="560" y="96.0" font-size="14.5" fill="#c9d1d9">Dribba</text>
+<text class="row" style="animation-delay:0.430s" x="374" y="116.0" font-size="14.5" fill="#ff5657">IDE:</text>
+<text class="row" style="animation-delay:0.430s" x="560" y="116.0" font-size="14.5" fill="#c9d1d9">GoLand</text>
+<text class="row" style="animation-delay:0.520s" x="374" y="156.0" font-size="14.5" fill="#ff5657">Llenguatges.Codi:</text>
+<text class="row" style="animation-delay:0.520s" x="560" y="156.0" font-size="14.5" fill="#c9d1d9">Go</text>
+<text class="row" style="animation-delay:0.610s" x="374" y="196.0" font-size="14.5" fill="#ff5657">Contacte.GitHub:</text>
+<text class="row" style="animation-delay:0.610s" x="560" y="196.0" font-size="14.5" fill="#c9d1d9">@oriacbonvehi</text>
+<text class="row" style="animation-delay:0.655s" x="374" y="216.0" font-size="14.5" fill="#ff5657">Contacte.LinkedIn:</text>
+<text class="row" style="animation-delay:0.655s" x="560" y="216.0" font-size="14.5" fill="#c9d1d9">linkedin.com/in/oriacbv</text>
+<text class="row" style="animation-delay:0.700s" x="374" y="236.0" font-size="14.5" fill="#ff5657">Contacte.Correu:</text>
+<text class="row" style="animation-delay:0.700s" x="560" y="236.0" font-size="14.5" fill="#c9d1d9">oriac.bonvehi@dribba.com</text>
+<text class="row" style="animation-delay:0.790s" x="374" y="276.0" font-size="14.5" fill="#ff5657">GitHub.Repos:</text>
+<text class="row" style="animation-delay:0.790s" x="560" y="276.0" font-size="14.5" fill="#c9d1d9">1 · 1 de tercers</text>
+<text class="row" style="animation-delay:0.835s" x="374" y="296.0" font-size="14.5" fill="#ff5657">GitHub.Commits:</text>
+<text class="row" style="animation-delay:0.835s" x="560" y="296.0" font-size="14.5" fill="#c9d1d9">12</text>
+<text class="row" style="animation-delay:0.880s" x="374" y="316.0" font-size="14.5" fill="#ff5657">GitHub.Estrelles:</text>
+<text class="row" style="animation-delay:0.880s" x="560" y="316.0" font-size="14.5" fill="#c9d1d9">0</text>
+<text class="row" style="animation-delay:0.925s" x="374" y="336.0" font-size="14.5" fill="#ff5657">GitHub.Seguidors:</text>
+<text class="row" style="animation-delay:0.925s" x="560" y="336.0" font-size="14.5" fill="#c9d1d9">0</text>
+<text class="row" style="animation-delay:0.970s" x="374" y="356.0" font-size="14.5" fill="#ff5657">GitHub.Línies:</text>
+<text class="row" style="animation-delay:0.970s" x="560" y="356.0" font-size="14.5" fill="#c9d1d9">728 (728++, 0--)</text>
+<rect class="cursor" x="374" y="369.0" width="9" height="15" fill="#ff5657"/>
+</svg>
